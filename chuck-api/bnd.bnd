@@ -1,0 +1,4 @@
+Bundle-Name: chuck api
+Bundle-SymbolicName: chuck.api
+Bundle-Version: 1.0.0.${tstamp}
+Export-Package: fi.arcusys.lr7.chuckapi

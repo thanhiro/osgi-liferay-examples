@@ -1,0 +1,5 @@
+-dsannotations: *
+Bundle-Name: Chuck Impl
+Bundle-SymbolicName: fi.arcusys.lr7.chuckimpl
+Bundle-Version: 1.0.0.${tstamp}
+Private-Package: fi.arcusys.lr7.chuckimpl
