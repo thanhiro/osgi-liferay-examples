@@ -1,6 +1,7 @@
 dependencies {
 	compile project (':modules:chuck-api')
 	compile 'com.liferay.portal:portal-service:7.0.0-SNAPSHOT'
+	compile 'biz.aQute.bnd:bndlib:2.1.0'
 	compile 'javax.portlet:portlet-api:2.0'
 	compile 'javax.servlet:servlet-api:2.5'
 	compile 'org.osgi:org.osgi.compendium:5.0.0'

@@ -1,11 +1,10 @@
+-metatype: *
 Bundle-SymbolicName: chuck.portlet
-
 Bundle-Version: 1.0.0.${tstamp}
-
 Import-Package: \
 	javax.portlet;version='[2.0,3)',\
 	javax.servlet;version='[2.5,4)',\
 	*
-
 Private-Package: \
 	fi.arcusys.lr7.chuckportlet
+
